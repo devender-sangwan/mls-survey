@@ -1,0 +1,33 @@
+{
+  "questions": [
+    {
+      "question": "What is your gender?",
+      "questionOptions": [
+        {
+          "label": "Male"
+        },
+        {
+          "label": "Female"
+        },
+        {
+          "label": "Other"
+        }
+      ]
+    },
+ {
+      "question": "What is your city?",
+      "questionOptions": [
+        {
+          "label": "Frankfurt"
+        },
+        {
+          "label": "Munich"
+        },
+        {
+          "label": "Gateway Garden"
+        }
+      ]
+    }
+  ],
+  "surveyId": 1
+}
